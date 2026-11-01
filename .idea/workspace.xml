@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb78afd3-f6cf-478d-9309-62951d8f55d5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;akobirtukhtamishev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/akobirtukhtamishev/burak-react.git&quot;,
+    &quot;accountId&quot;: &quot;0ca9b5aa-31dd-4088-8d45-dc2614576310&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000168756" />
+      <entry key="S5" value="1.0002561529946339" />
+      <entry key="S10" value="1.083564535945635" />
+      <entry key="S30" value="7.03337141899131" />
+      <entry key="S60" value="21.45401127863144" />
+      <entry key="M2" value="40.059776141524175" />
+      <entry key="M5" value="60.13556850217757" />
+      <entry key="M10" value="70.7374285995775" />
+      <entry key="M15" value="76.5559945690843" />
+      <entry key="M30" value="95.45876205628095" />
+      <entry key="H1" value="151.46580364896627" />
+      <entry key="H2" value="241.7754326535747" />
+      <entry key="H4" value="327.60600943320895" />
+      <entry key="D1" value="435.8971314305746" />
+      <entry key="W1" value="458.9990884288162" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.28E-321" />
+      <entry key="S5" value="6.529156802055023E-129" />
+      <entry key="S10" value="1.1400039867385297E-64" />
+      <entry key="S30" value="8.198687776534342E-22" />
+      <entry key="S60" value="4.706575606490278E-11" />
+      <entry key="M2" value="1.2387465611809583E-5" />
+      <entry key="M5" value="0.02409011242547694" />
+      <entry key="M10" value="0.3089517420968655" />
+      <entry key="M15" value="0.7382989593535091" />
+      <entry key="M30" value="1.9678219507835324" />
+      <entry key="H1" value="3.7514627284063806" />
+      <entry key="H2" value="5.612812793274623" />
+      <entry key="H4" value="7.042926401486629" />
+      <entry key="D1" value="8.628529175498057" />
+      <entry key="W1" value="8.94568738431112" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.8827029962906549" />
+      <entry key="MS500" value="0.9753554615276419" />
+      <entry key="S2" value="0.9937810933390722" />
+      <entry key="S5" value="0.9977616758769975" />
+      <entry key="S10" value="1.0820142939979585" />
+      <entry key="S30" value="7.027524865869886" />
+      <entry key="S60" value="21.44568602224138" />
+      <entry key="M2" value="40.05250137969966" />
+      <entry key="M5" value="60.15527848537937" />
+      <entry key="M10" value="71.04238339915716" />
+      <entry key="M15" value="77.28988345680736" />
+      <entry key="M30" value="97.42100804674124" />
+      <entry key="H1" value="155.2105917318549" />
+      <entry key="H2" value="247.38224127152606" />
+      <entry key="H4" value="334.64476381922145" />
+      <entry key="D1" value="444.52473118117285" />
+      <entry key="W1" value="467.9446360798524" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3LPqaB48YUvPWEvLyyiURNdF3ze" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/ethan/IdeaProjects/burak-react",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "settings.typescriptcompiler",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/nix/store/7a8vphsplfv0s8aph55a1bn5zl7pbcd9-idea-2026.2.0.1/idea/plugins/javascript-plugin/jsLanguageServicesImpl/external"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-63390994e64e-intellij.indexing.shared.core-IU-262.8665.337" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.8665.337" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb78afd3-f6cf-478d-9309-62951d8f55d5" name="Changes" comment="" />
+      <created>1793366113463</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793366113463</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
