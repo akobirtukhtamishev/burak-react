@@ -14,8 +14,10 @@ export interface Product {
   productSize?: ProductSize;
   productVolume?: number;
   productDesc?: string;
-  productImages?: string[];
+  productImages: string[];
   productViews?: number;
+  createdAt: Date;
+  updatedAt: Date;
 }
 
 export interface ProductInquiry {

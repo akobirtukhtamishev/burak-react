@@ -15,27 +15,27 @@ function App() {
   const location = useLocation();
 
   return (
-      <>
-        {location.pathname === "/" ? <HomeNavbar /> : <OtherNavbar />}
-        <Switch>
-          <Route path="/products">
-            <ProductsPage />
-          </Route>
-          <Route path="/orders">
-            <OrdersPage />
-          </Route>
-          <Route path="/member-page">
-            <UserPage />
-          </Route>
-          <Route path="/help">
-            <HelpPage />
-          </Route>
-          <Route path="/">
-            <HomePage />
-          </Route>
-        </Switch>
-        <Footer />
-      </>
+    <>
+      {location.pathname === "/" ? <HomeNavbar /> : <OtherNavbar />}
+      <Switch>
+        <Route path="/products">
+          <ProductsPage />
+        </Route>
+        <Route path="/orders">
+          <OrdersPage />
+        </Route>
+        <Route path="/member-page">
+          <UserPage />
+        </Route>
+        <Route path="/help">
+          <HelpPage />
+        </Route>
+        <Route path="/">
+          <HomePage />
+        </Route>
+      </Switch>
+      <Footer />
+    </>
   );
 }
 
